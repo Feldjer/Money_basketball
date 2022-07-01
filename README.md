@@ -1,4 +1,6 @@
 # Money Basketball
+## Python
+## Selenium
 
 A program for betting on basketball
 
